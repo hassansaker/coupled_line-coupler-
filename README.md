@@ -1,2 +1,2 @@
 # coupled_line-coupler-
-coupled_line coupler single section using HFSS
+Design coupled_line coupler single section with C=17dB in AWR then applied the design using HFSS software 
